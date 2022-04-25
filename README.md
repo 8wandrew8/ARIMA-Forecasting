@@ -1,2 +1,2 @@
 # TS-Analysis
-ARIMA with Python and R
+Time Series with Python and R
